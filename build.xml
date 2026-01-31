@@ -52,6 +52,8 @@
 Built-Date: ${NOW}
 version: "${bundleversion}"
 id: "${id}"
+groupId: "${groupId}"
+artifactId: "${artifactId}"
 name: "${label}"
 category: "Office"
 description: "${description}"
